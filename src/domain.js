@@ -14,7 +14,7 @@ let extensions = ['.com','.net','.us','.io']
 // })
 
 
-//For taking out the last two letters of each element I used chatgpt :'(
+//For taking out the last two letters of each element I used chatgpt to help me..
 function createDomains() {
     let domains = [];                                                                              //Here I create an empty erray called domains
 
